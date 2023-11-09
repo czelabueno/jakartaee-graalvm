@@ -1,0 +1,135 @@
+DELETE http://localhost:8080/jakartaee-graalvm/rest/community/Fabio
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T105032.200.json
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T105021.200.json
+
+###
+
+GET http://localhost:8080/jakartaee-graalvm/rest/community
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T105013.200.json
+
+###
+
+DELETE http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T104648.500.html
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T104637.200.json
+
+###
+
+GET http://localhost:8080/jakartaee-graalvm/rest/community
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T104633.200.json
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T104405.200.json
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T104132.500.html
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T104006.500.html
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T103858.200.json
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T102043.500.html
+
+###
+
+PUT http://localhost:8080/jakartaee-graalvm/rest/community/Alberto
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T101821.500.html
+
+###
+
+GET http://localhost:8080/jakartaee-graalvm/rest/community
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T101816.200.json
+
+###
+
+GET http://localhost:8080/jakartaee-graalvm/rest/community
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T101413.200.json
+
+###
+
